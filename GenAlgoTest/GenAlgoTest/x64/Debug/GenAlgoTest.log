@@ -1,0 +1,10 @@
+﻿  Individual.cpp
+  Main.cpp
+C:\Users\Hugo\Documents\GitHub\GeneticAlgoKnapsack\GenAlgoTest\GenAlgoTest\Main.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GeneticAlgo.cpp
+  KnapsackProblem.cpp
+  SelectionAlgos.cpp
+C:\Users\Hugo\Documents\GitHub\GeneticAlgoKnapsack\GenAlgoTest\GenAlgoTest\SelectionAlgos.cpp(10,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Tools.cpp
+  Generating Code...
+  GenAlgoTest.vcxproj -> C:\Users\Hugo\Documents\GitHub\GeneticAlgoKnapsack\GenAlgoTest\x64\Debug\GenAlgoTest.exe
